@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prog01-Electric Slide[rs]</string>
+    <string-array name="options">
+        <item>Walking</item>
+        <item>Boosted Mini-S Board</item>
+        <item>Evolve Bamboo GTR 2in1</item>
+    </string-array>
+    <string  name="firstPrompt">Select a method of transport</string>
+    <string  name="secondPrompt">Compare to which?</string>
+</resources>

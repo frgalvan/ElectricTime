@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Prog01-Electric Time"
